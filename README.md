@@ -5,7 +5,7 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/iterative/dvc.org)
 
 [DVC](https://github.com/iterative/dvc) project website's source code.
-[Documentation](https://dvc.org/doc) and [blog](https://dvc.org/blog) content.
+[Documentation](https://dvc.org/doc) and [blog](https://dvc.org/blog) content
 Contributions are welcome!
 
 # Contributing Docs
